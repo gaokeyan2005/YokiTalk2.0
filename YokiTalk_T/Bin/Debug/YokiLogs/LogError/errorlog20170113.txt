@@ -1,0 +1,41 @@
+{"error_time": "2017-01-13 11:55:59","computername": "CYGKY","account": "testtest1","error_source": "YokiTalk","error_message": "An unhandled exception has occurred：2017/1/13 11:55:57
+Application UnhandledException:未将对象引用设置到对象的实例。;
+Stack information:   在 Yoki.View.frmMain.CheckAndEvaluate() 位置 E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.View\frmMain.cs:行号 857
+   在 Yoki.View.frmMain.<>c__DisplayClass16_0.<InitUI>b__2(Object o1) 位置 E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.View\frmMain.cs:行号 416
+   在 System.Threading.QueueUserWorkItemCallback.WaitCallback_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   在 System.Threading.ThreadPoolWorkQueue.Dispatch()
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()"},
+{"error_time": "2017-01-13 12:02:44","computername": "CYGKY","account": "testtest1","error_source": "System.Windows.Forms","error_message": "An unhandled exception has occurred：2017/1/13 12:02:44
+Application UnhandledException:线程间操作无效: 从不是创建控件“waitingRoom”的线程访问它。;
+Stack information:   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.Control.OnEnabledChanged(EventArgs e)
+   在 System.Windows.Forms.Control.set_Enabled(Boolean value)
+   在 Yoki.View.frmMain.<>c__DisplayClass16_0.<InitUI>b__2(Object o1) 位置 E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.View\frmMain.cs:行号 416
+   在 System.Threading.QueueUserWorkItemCallback.WaitCallback_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   在 System.Threading.ThreadPoolWorkQueue.Dispatch()
+   在 System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()"},
+{"error_time": "2017-01-13 13:04:08","computername": "CYGKY","account": "testtest1","error_source": "System.Windows.Forms","error_message": "An unhandled exception has occurred:2017/1/13 13:04:08
+Exception type:InvalidOperationException
+Exception message:执行 CreateHandle() 时无法调用值 Dispose()。
+Abnormal information:   在 System.Windows.Forms.Control.Dispose(Boolean disposing)
+   在 System.Windows.Forms.PictureBox.Dispose(Boolean disposing)
+   在 System.ComponentModel.Component.Dispose()
+   在 System.Windows.Forms.Control.Dispose(Boolean disposing)
+   在 System.ComponentModel.Component.Dispose()
+   在 System.Windows.Forms.Control.Dispose(Boolean disposing)
+   在 System.Windows.Forms.Form.Dispose(Boolean disposing)
+   在 Fink.Windows.Forms.FormEx.Dispose(Boolean disposing) 位置 E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Fink.Windows.Forms\_FormEx\FormEx.cs:行号 697
+   在 Yoki.View.frmMain.Dispose(Boolean disposing) 位置 E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.View\frmMain.Designer.cs:行号 20
+   在 System.Windows.Forms.Form.WmClose(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 Fink.Windows.Forms.FormEx.WndProc(Message& m) 位置 E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Fink.Windows.Forms\_FormEx\FormEx.cs:行号 644
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+"},

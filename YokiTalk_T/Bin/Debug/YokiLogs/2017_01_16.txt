@@ -1,0 +1,204 @@
+{2017/1/16 9:43:46}[OnReceiveSysMsg] e.Message = {"msg":"ok","code":20001,"data":{"log_id":70478,"topic_id":"847","textbook_id":46,"student_id":23265327789,"student_name":"MrGao","student_avatar":null,"student_gender":"2","student_age":18}}
+{2017/1/16 9:43:52}[OnVChatAck] call user =  23265327789
+{2017/1/16 9:44:01}[OnVChatConnected] StartClass ClassInfo = LogID :  70478
+TopicID :  847
+TextbookID :  46
+StuID :  23265327789
+StuAvatar :  null
+StuAvatarImage :  null
+StuName :  MrGao
+StuAge :  18
+StuGender :  Female
+StuGrade :  Grade 2
+TopicInfo:
+   Title :  It is time for school
+   Links:
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+
+
+StartClassTime :  0001/1/1 0:00:00
+
+{2017/1/16 9:53:43}[OnReceiveSysMsg] e.Message = {"msg":"ok","code":20001,"data":{"log_id":70479,"topic_id":"793","textbook_id":27,"student_id":25676570019,"student_name":null,"student_avatar":null,"student_gender":"3","student_age":18}}
+{2017/1/16 9:55:42}[OnReceiveSysMsg] e.Message = {"msg":"ok","code":20001,"data":{"log_id":70480,"topic_id":"847","textbook_id":46,"student_id":25676570019,"student_name":null,"student_avatar":null,"student_gender":"3","student_age":18}}
+{2017/1/16 9:56:05}[OnVChatAck] call user =  25676570019
+{2017/1/16 9:56:07}[OnVChatConnected] StartClass ClassInfo = LogID :  70480
+TopicID :  847
+TextbookID :  46
+StuID :  25676570019
+StuAvatar :  null
+StuAvatarImage :  null
+StuName :  null
+StuAge :  18
+StuGender :  Not_Filled
+StuGrade :  Grade 2
+TopicInfo:
+   Title :  It is time for school
+   Links:
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+
+
+StartClassTime :  0001/1/1 0:00:00
+
+{2017/1/16 10:02:55}[OnVChatAck] call user =  25676570019
+{2017/1/16 10:02:58}[OnVChatConnected] StartClass ClassInfo = LogID :  70480
+TopicID :  847
+TextbookID :  46
+StuID :  25676570019
+StuAvatar :  null
+StuAvatarImage :  null
+StuName :  null
+StuAge :  18
+StuGender :  Not_Filled
+StuGrade :  Grade 2
+TopicInfo:
+   Title :  It is time for school
+   Links:
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+
+
+StartClassTime :  2017/1/16 9:56:07
+
+{2017/1/16 10:05:59}[OnVChatAck] call user =  25676570019
+{2017/1/16 10:06:23}[OnVChatConnected] StartClass ClassInfo = LogID :  70480
+TopicID :  847
+TextbookID :  46
+StuID :  25676570019
+StuAvatar :  null
+StuAvatarImage :  null
+StuName :  null
+StuAge :  18
+StuGender :  Not_Filled
+StuGrade :  Grade 2
+TopicInfo:
+   Title :  It is time for school
+   Links:
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+
+
+StartClassTime :  2017/1/16 9:56:07
+
+{2017/1/16 10:16:06}[OnReceiveSysMsg] e.Message = {"msg":"ok","code":20001,"data":{"log_id":70481,"topic_id":"847","textbook_id":46,"student_id":25676570019,"student_name":null,"student_avatar":null,"student_gender":"3","student_age":18}}

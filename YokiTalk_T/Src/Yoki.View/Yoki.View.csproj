@@ -1,0 +1,369 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CFA7419C-0EBF-4C0A-921D-C677212F6B6A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Yoki.View</RootNamespace>
+    <AssemblyName>YokiTalk</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>yoki_teacher_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>..\..\Bin\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;IMTEST</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>..\..\Bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Business\AccountController.cs" />
+    <Compile Include="Dialog\frmEvaluateNotify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialog\frmEvaluateNotify.Designer.cs">
+      <DependentUpon>frmEvaluateNotify.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialog\frmNotify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialog\frmNotify.Designer.cs">
+      <DependentUpon>frmNotify.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialog\frmSessionCalleeAckNotify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialog\frmSessionCalleeAckNotify.Designer.cs">
+      <DependentUpon>frmSessionCalleeAckNotify.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUtil.cs" />
+    <Compile Include="FontUtil.cs" />
+    <Compile Include="frmATest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmATest.Designer.cs">
+      <DependentUpon>frmATest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GlobalSuppressions.cs" />
+    <Compile Include="ObjectOutput.cs" />
+    <Compile Include="Partial\Star.cs" />
+    <Compile Include="Partial\StarList.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PicboxEffects.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ResourceHelper.cs" />
+    <Compile Include="UserControl\ucChangeName.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\ucChangeName.Designer.cs">
+      <DependentUpon>ucChangeName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\ucEvaluate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\ucEvaluate.Designer.cs">
+      <DependentUpon>ucEvaluate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\ucEvaluateCell.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\ucEvaluateCell.Designer.cs">
+      <DependentUpon>ucEvaluateCell.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\ucLeftMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\ucLeftMenu.Designer.cs">
+      <DependentUpon>ucLeftMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\ucReload.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\ucReload.Designer.cs">
+      <DependentUpon>ucReload.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\ucVideoControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\ucVideoControl.Designer.cs">
+      <DependentUpon>ucVideoControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserHeader.cs" />
+    <EmbeddedResource Include="Dialog\frmEvaluateNotify.resx">
+      <DependentUpon>frmEvaluateNotify.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialog\frmNotify.resx">
+      <DependentUpon>frmNotify.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialog\frmSessionCalleeAckNotify.resx">
+      <DependentUpon>frmSessionCalleeAckNotify.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmATest.resx">
+      <DependentUpon>frmATest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\ucChangeName.resx">
+      <DependentUpon>ucChangeName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\ucEvaluate.resx">
+      <DependentUpon>ucEvaluate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\ucEvaluateCell.resx">
+      <DependentUpon>ucEvaluateCell.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\ucReload.resx">
+      <DependentUpon>ucReload.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\ucVideoControl.resx">
+      <DependentUpon>ucVideoControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Fink.Core\Fink.Core.csproj">
+      <Project>{c4f13b45-e8b5-4e42-93f9-75ac2b10534a}</Project>
+      <Name>Fink.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Fink.Drawing\Fink.Drawing.csproj">
+      <Project>{1ff50f3a-43a3-4648-b132-0ea318ab1340}</Project>
+      <Name>Fink.Drawing</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Fink.Windows.Forms\Fink.Windows.Forms.csproj">
+      <Project>{4617ffae-d5c0-4752-a022-fecad4943424}</Project>
+      <Name>Fink.Windows.Forms</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Yoki.Business\Yoki.Business.csproj">
+      <Project>{d3e3ea21-34c6-4a08-a6d3-7e7d51223b72}</Project>
+      <Name>Yoki.Business</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Yoki.Comm\Yoki.Comm.csproj">
+      <Project>{44125d6e-78a1-456c-967e-aafca7b6bbea}</Project>
+      <Name>Yoki.Comm</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\ThirdParty\NIM\Utility\NimUtility.csproj">
+      <Project>{a9141f3e-b530-49ee-b959-16a49e1c98b1}</Project>
+      <Name>NimUtility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\ThirdParty\NIM\Core\NimCore.csproj">
+      <Project>{3f88dd96-1392-409a-89e8-475fc56e4647}</Project>
+      <Name>NimCore</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Yoki.Controls\Yoki.Controls.csproj">
+      <Project>{63cfa640-2502-42cd-b7f3-bbff54adcf45}</Project>
+      <Name>Yoki.Controls</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Yoki.Core\Yoki.Core.csproj">
+      <Project>{2e1015db-2f77-48e1-a5cb-59de18e94f9b}</Project>
+      <Name>Yoki.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Yoki.IM\Yoki.IM.csproj">
+      <Project>{0c53340c-b5a4-40a3-b746-2500e86169e5}</Project>
+      <Name>Yoki.IM</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh_down.png" />
+    <None Include="Resources\refresh_up.png" />
+    <None Include="Resources\videocontrol.png" />
+    <Content Include="yoki_teacher_icon.ico" />
+    <None Include="Resources\noVideo.png" />
+    <None Include="Resources\newOrder.png" />
+    <None Include="Resources\closeWaring.png" />
+    <None Include="Resources\gender_girl.png" />
+    <None Include="Resources\gender_boy.png" />
+    <None Include="Resources\gender_unknown.png" />
+    <None Include="Resources\evaluateStar.png" />
+    <None Include="Resources\evaluateStar_empty.png" />
+    <None Include="Resources\emptyHeader.png" />
+    <None Include="Resources\orderIsComming.gif" />
+    <None Include="Resources\control_disable_speaker.png" />
+    <None Include="Resources\control_camera.png" />
+    <None Include="Resources\control_mic.png" />
+    <None Include="Resources\control_speaker.png" />
+    <None Include="Resources\control_disable_camera.png" />
+    <None Include="Resources\control_disable_mic.png" />
+    <None Include="Resources\settings.png" />
+    <None Include="Resources\connecting.png" />
+    <Content Include="Resources\loadingImage.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\nopic.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\Preloader_8_00000.png" />
+    <None Include="Resources\Preloader_8_00001.png" />
+    <None Include="Resources\Preloader_8_00002.png" />
+    <None Include="Resources\Preloader_8_00003.png" />
+    <None Include="Resources\Preloader_8_00004.png" />
+    <None Include="Resources\Preloader_8_00005.png" />
+    <None Include="Resources\Preloader_8_00006.png" />
+    <None Include="Resources\Preloader_8_00007.png" />
+    <None Include="Resources\Preloader_8_00008.png" />
+    <None Include="Resources\Preloader_8_00009.png" />
+    <None Include="Resources\Preloader_8_00010.png" />
+    <None Include="Resources\Preloader_8_00011.png" />
+    <None Include="Resources\Preloader_8_00012.png" />
+    <None Include="Resources\Preloader_8_00013.png" />
+    <None Include="Resources\Preloader_8_00014.png" />
+    <None Include="Resources\Preloader_8_00015.png" />
+    <None Include="Resources\Preloader_8_00016.png" />
+    <None Include="Resources\Preloader_8_00017.png" />
+    <None Include="Resources\Preloader_8_00018.png" />
+    <None Include="Resources\Preloader_8_00019.png" />
+    <None Include="Resources\Preloader_8_00020.png" />
+    <None Include="Resources\Preloader_8_00021.png" />
+    <None Include="Resources\Preloader_8_00022.png" />
+    <None Include="Resources\Preloader_8_00023.png" />
+    <None Include="Resources\Preloader_8_00024.png" />
+    <None Include="Resources\Preloader_8_00025.png" />
+    <None Include="Resources\Preloader_8_00026.png" />
+    <None Include="Resources\Preloader_8_00027.png" />
+    <None Include="Resources\Preloader_8_00028.png" />
+    <None Include="Resources\Preloader_8_00029.png" />
+    <None Include="Resources\tooltipBackgound_168.png" />
+    <None Include="Resources\Ring_NewOrder.wav" />
+    <None Include="Resources\yokiLogoWithText.png" />
+    <None Include="Resources\testGif.gif" />
+    <None Include="Resources\switchONMsg.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

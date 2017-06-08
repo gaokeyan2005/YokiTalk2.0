@@ -1,0 +1,4 @@
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Bin\Debug\Yoki.Core.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Bin\Debug\Yoki.Core.pdb
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.Core\obj\x86\Debug\Yoki.Core.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.Core\obj\x86\Debug\Yoki.Core.pdb

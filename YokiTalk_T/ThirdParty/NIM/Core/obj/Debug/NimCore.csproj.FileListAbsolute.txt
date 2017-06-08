@@ -1,0 +1,7 @@
+E:\working projects\nim\embedded\sdk\bin\NimCore.dll
+E:\working projects\nim\embedded\sdk\bin\NimCore.pdb
+E:\working projects\nim\embedded\trunk\universal_sdk_api\csharp\nim\Src\Core\obj\Debug\NimCore.csprojResolveAssemblyReference.cache
+E:\working projects\nim\embedded\trunk\universal_sdk_api\csharp\nim\Src\Core\obj\Debug\NIM.Properties.Resources.resources
+E:\working projects\nim\embedded\trunk\universal_sdk_api\csharp\nim\Src\Core\obj\Debug\NimCore.csproj.GenerateResource.Cache
+E:\working projects\nim\embedded\trunk\universal_sdk_api\csharp\nim\Src\Core\obj\Debug\NimCore.dll
+E:\working projects\nim\embedded\trunk\universal_sdk_api\csharp\nim\Src\Core\obj\Debug\NimCore.pdb

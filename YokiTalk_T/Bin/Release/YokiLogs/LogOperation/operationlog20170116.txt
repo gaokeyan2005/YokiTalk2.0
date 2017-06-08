@@ -1,0 +1,4 @@
+{"operation_time": "2017-01-16 10:32:18","computername": "CYGKY","account": "testtest1","operation_type": "Login","operation_log": "Successful login!"},
+{"operation_time": "2017-01-16 10:36:01","computername": "CYGKY","account": "testtest1","operation_type": "Close","operation_log": "Close the system, log off."},
+{"operation_time": "2017-01-16 13:32:36","computername": "CYGKY","account": "teacher6","operation_type": "Login","operation_log": "Successful login!"},
+{"operation_time": "2017-01-16 13:32:40","computername": "CYGKY","account": "teacher6","operation_type": "Close","operation_log": "Close the system, log off."},

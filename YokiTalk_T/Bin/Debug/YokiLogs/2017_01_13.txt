@@ -1,0 +1,173 @@
+{2017/1/13 11:11:18}[OnReceiveSysMsg] e.Message = {"msg":"ok","code":20001,"data":{"log_id":70449,"topic_id":"845","textbook_id":31,"student_id":23265327789,"student_name":"MrGao","student_avatar":null,"student_gender":"2","student_age":18}}
+{2017/1/13 11:11:30}[OnVChatAck] call user =  23265327789
+{2017/1/13 11:11:34}[OnVChatConnected] StartClass ClassInfo = LogID :  70449
+TopicID :  845
+TextbookID :  31
+StuID :  23265327789
+StuAvatar :  null
+StuAvatarImage :  null
+StuName :  MrGao
+StuAge :  18
+StuGender :  Female
+StuGrade :  Grade 2
+TopicInfo:
+   Title :  What's your favorite sport？
+   Links:
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  90
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  90
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  90
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  90
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  90
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  90
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  90
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  90
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  90
+
+
+
+
+StartClassTime :  0001/1/1 0:00:00
+
+{2017/1/13 11:16:23}[OnVChatAck] call user =  23265327789
+{2017/1/13 13:43:07}[OnReceiveSysMsg] e.Message = {"msg":"ok","code":20001,"data":{"log_id":70450,"topic_id":"845","textbook_id":31,"student_id":23265327789,"student_name":"MrGao","student_avatar":null,"student_gender":"2","student_age":18}}
+{2017/1/13 13:43:17}[OnVChatAck] call user =  23265327789
+{2017/1/13 14:02:42}[OnReceiveSysMsg] e.Message = {"msg":"ok","code":20001,"data":{"log_id":70452,"topic_id":"845","textbook_id":31,"student_id":23265327789,"student_name":"MrGao","student_avatar":null,"student_gender":"2","student_age":18}}
+{2017/1/13 14:02:52}[OnReceiveSysMsg] e.Message = {"msg":"ok","code":20001,"data":{"log_id":70453,"topic_id":"845","textbook_id":31,"student_id":23265327789,"student_name":"MrGao","student_avatar":null,"student_gender":"2","student_age":18}}
+{2017/1/13 14:03:20}[OnVChatAck] call user =  23265327789
+{2017/1/13 14:14:58}[OnVChatAck] call user =  23265327789
+{2017/1/13 14:38:33}[OnReceiveSysMsg] e.Message = {"msg":"ok","code":20001,"data":{"log_id":70458,"topic_id":"845","textbook_id":31,"student_id":23265327789,"student_name":"MrGao","student_avatar":null,"student_gender":"2","student_age":18}}
+{2017/1/13 14:38:42}[OnVChatAck] call user =  23265327789
+{2017/1/13 14:46:10}[OnVChatAck] call user =  23265327789
+{2017/1/13 14:46:11}[OnVChatConnected] StartClass ClassInfo = LogID :  70458
+TopicID :  845
+TextbookID :  31
+StuID :  23265327789
+StuAvatar :  null
+StuAvatarImage :  null
+StuName :  MrGao
+StuAge :  18
+StuGender :  Female
+StuGrade :  Grade 1
+TopicInfo:
+   Title :  What's your favorite sport？
+   Links:
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  90
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  90
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  90
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  90
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  90
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  90
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  90
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  90
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  90
+
+
+
+
+StartClassTime :  2017/1/13 14:38:42
+
+{2017/1/13 15:19:38}[OnReceiveSysMsg] e.Message = {"msg":"ok","code":20001,"data":{"log_id":70468,"topic_id":"845","textbook_id":31,"student_id":23265327789,"student_name":"MrGao","student_avatar":null,"student_gender":"2","student_age":18}}
+{2017/1/13 15:19:46}[OnVChatAck] call user =  23265327789
+{2017/1/13 15:19:52}[OnVChatConnected] StartClass ClassInfo = LogID :  70468
+TopicID :  845
+TextbookID :  31
+StuID :  23265327789
+StuAvatar :  null
+StuAvatarImage :  null
+StuName :  MrGao
+StuAge :  18
+StuGender :  Female
+StuGrade :  Grade 2
+TopicInfo:
+   Title :  What's your favorite sport？
+   Links:
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  90
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  90
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  90
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  90
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  90
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  90
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  90
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  90
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  90
+
+
+
+
+StartClassTime :  0001/1/1 0:00:00
+

@@ -1,0 +1,13 @@
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Fink.Windows.Forms\bin\x86\Release\Fink.Windows.Forms.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Fink.Windows.Forms\bin\x86\Release\Fink.Windows.Forms.pdb
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Fink.Windows.Forms\bin\x86\Release\Fink.Core.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Fink.Windows.Forms\bin\x86\Release\Fink.Drawing.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Fink.Windows.Forms\bin\x86\Release\Fink.Core.pdb
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Fink.Windows.Forms\bin\x86\Release\Fink.Drawing.pdb
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Fink.Windows.Forms\obj\x86\Release\Fink.Windows.Forms.csprojResolveAssemblyReference.cache
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Fink.Windows.Forms\obj\x86\Release\Fink.Windows.Forms.Properties.Resources.resources
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Fink.Windows.Forms\obj\x86\Release\Fink.Windows.Forms.AutocompleteMenu.resources
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Fink.Windows.Forms\obj\x86\Release\Fink.Windows.Forms.FormEx.resources
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Fink.Windows.Forms\obj\x86\Release\Fink.Windows.Forms.csproj.GenerateResource.Cache
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Fink.Windows.Forms\obj\x86\Release\Fink.Windows.Forms.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Fink.Windows.Forms\obj\x86\Release\Fink.Windows.Forms.pdb

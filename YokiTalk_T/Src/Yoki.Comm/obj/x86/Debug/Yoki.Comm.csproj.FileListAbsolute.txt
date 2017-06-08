@@ -1,0 +1,5 @@
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Bin\Debug\Yoki.Comm.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Bin\Debug\Yoki.Comm.pdb
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.Comm\obj\x86\Debug\Yoki.Comm.csprojResolveAssemblyReference.cache
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.Comm\obj\x86\Debug\Yoki.Comm.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.Comm\obj\x86\Debug\Yoki.Comm.pdb

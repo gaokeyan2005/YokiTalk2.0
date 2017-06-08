@@ -1,0 +1,8 @@
+E:\working projects\nim\embedded\trunk\universal_sdk_api\csharp\nim\Src\ChatRoom\bin\Debug\NimChatRoom.dll
+E:\working projects\nim\embedded\trunk\universal_sdk_api\csharp\nim\Src\ChatRoom\bin\Debug\NimChatRoom.pdb
+E:\working projects\nim\embedded\trunk\universal_sdk_api\csharp\nim\Src\ChatRoom\bin\Debug\Newtonsoft.Json.dll
+E:\working projects\nim\embedded\trunk\universal_sdk_api\csharp\nim\Src\ChatRoom\bin\Debug\NimUtility.dll
+E:\working projects\nim\embedded\trunk\universal_sdk_api\csharp\nim\Src\ChatRoom\bin\Debug\NimUtility.pdb
+E:\working projects\nim\embedded\trunk\universal_sdk_api\csharp\nim\Src\ChatRoom\obj\Debug\NimChatRoom.csprojResolveAssemblyReference.cache
+E:\working projects\nim\embedded\trunk\universal_sdk_api\csharp\nim\Src\ChatRoom\obj\Debug\NimChatRoom.dll
+E:\working projects\nim\embedded\trunk\universal_sdk_api\csharp\nim\Src\ChatRoom\obj\Debug\NimChatRoom.pdb

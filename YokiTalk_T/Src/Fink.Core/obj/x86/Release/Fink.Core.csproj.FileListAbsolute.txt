@@ -1,0 +1,4 @@
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Fink.Core\bin\x86\Release\Fink.Core.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Fink.Core\bin\x86\Release\Fink.Core.pdb
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Fink.Core\obj\x86\Release\Fink.Core.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Fink.Core\obj\x86\Release\Fink.Core.pdb

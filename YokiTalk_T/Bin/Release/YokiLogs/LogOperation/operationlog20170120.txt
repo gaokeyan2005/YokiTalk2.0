@@ -1,0 +1,4 @@
+{"operation_time": "2017-01-20 10:52:49","computername": "CYGKY","account": "testtest1","operation_type": "Login","operation_log": "Successful login!"},
+{"operation_time": "2017-01-20 10:53:25","computername": "CYGKY","account": "testtest1","operation_type": "Answer","operation_log": "Call connection performs manual consent access!"},
+{"operation_time": "2017-01-20 10:53:32","computername": "CYGKY","account": "testtest1","operation_type": "Net","operation_log": "Network status is better."},
+{"operation_time": "2017-01-20 10:53:38","computername": "CYGKY","account": "testtest1","operation_type": "Net","operation_log": "Network status is very good."},

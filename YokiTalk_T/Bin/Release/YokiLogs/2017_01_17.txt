@@ -1,0 +1,61 @@
+{2017/1/17 17:02:03}[OnReceiveSysMsg] e.Message = {"msg":"ok","code":20001,"data":{"log_id":70505,"topic_id":"6","textbook_id":4,"student_id":1010865,"student_name":"ruilan","student_avatar":"http:\/\/static.chaojiwaijiao.com\/\/2016\/09\/548c1ded3c308ff931cb855d8d7e79af.png","student_gender":"1","student_age":1}}
+{2017/1/17 17:03:06}[OnVChatAck] call user =  1010865
+{2017/1/17 17:04:34}[OnVChatAck] call user =  1010865
+{2017/1/17 17:04:37}[OnVChatConnected] StartClass ClassInfo = LogID :  70505
+TopicID :  6
+TextbookID :  4
+StuID :  1010865
+StuAvatar :  http://static.chaojiwaijiao.com//2016/09/548c1ded3c308ff931cb855d8d7e79af.png
+StuAvatarImage:
+   Tag :  null
+   PhysicalDimension :  {Width=399, Height=400}
+   Size :  {Width=399, Height=400}
+   Width :  399
+   Height :  400
+   HorizontalResolution :  96
+   VerticalResolution :  96
+   Flags :  73744
+   RawFormat :  [ImageFormat: b96b3cae-0728-11d3-9d7b-0000f81ef32e]
+   PixelFormat :  Format24bppRgb
+   Palette :  System.Drawing.Imaging.ColorPalette
+   FrameDimensionsList:
+7462dc86-6180-4c7e-8e3f-ee7333a7a483
+
+
+   PropertyIdList:
+
+   PropertyItems:
+
+
+StuName :  ruilan
+StuAge :  1
+StuGender :  Male
+StuGrade :  Grade 1
+TopicInfo:
+   Title :  Colors
+   Links:
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+
+
+StartClassTime :  2017/1/17 17:03:07
+
+{2017/1/17 17:06:24}[OnVChatAck] call user =  1010865

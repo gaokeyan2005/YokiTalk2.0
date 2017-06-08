@@ -1,0 +1,11 @@
+﻿http://123.59.164.185:80
+http://123.59.164.185:80
+
+http://apiv1.yokitalk.com
+http://apiv1.yokitalk.com
+
+http://123.59.164.185:80
+http://123.59.164.185:80
+
+http://api-pre.yokitalk.com
+http://api-pre.yokitalk.com

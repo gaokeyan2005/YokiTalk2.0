@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4617FFAE-D5C0-4752-A022-FECAD4943424}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Fink.Windows.Forms</RootNamespace>
+    <AssemblyName>Fink.Windows.Forms</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>..\..\Bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AnimationWindowTooltip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ControlDesignerEx.cs" />
+    <Compile Include="GlobalSuppressions.cs" />
+    <Compile Include="ImageDrawRect.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Win32.cs" />
+    <Compile Include="_AnimationPictureBox\AnimationPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="_AutoComplateDropDown\AutocompleteItem.cs" />
+    <Compile Include="_AutoComplateDropDown\AutocompleteItems.cs" />
+    <Compile Include="_AutoComplateDropDown\AutocompleteListView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="_AutoComplateDropDown\AutocompleteMenu.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="_AutoComplateDropDown\AutocompleteMenuHost.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="_ButtonEx\_Pure\WaringButtonExColorTable.cs" />
+    <Compile Include="_ButtonEx\_Pure\WaringButtonExRenderer.cs" />
+    <Compile Include="_DropDown\ControlWrapper.cs" />
+    <Compile Include="_DropDown\DropDownMenu.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="_AutoComplateDropDown\EventArgs.cs" />
+    <Compile Include="_AutoComplateDropDown\IAutocompleteListView.cs" />
+    <Compile Include="_AutoComplateDropDown\ITextBoxWrapper.cs" />
+    <Compile Include="_AutoComplateDropDown\Range.cs" />
+    <Compile Include="_AutoComplateDropDown\TextBoxWrapper.cs" />
+    <Compile Include="_Base\ButtonExBase.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="_Base\ControlEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="_Base\GroupBoxExBase.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="_DataGridViewEx\DataGrid.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="_DataGridViewEx\DataGridViewEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="_DataGridViewEx\GridViewHeader.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="_DropDown\DropDownMenuHost.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="_DropDown\EventArgs.cs" />
+    <Compile Include="_DropDown\IWrapper.cs" />
+    <Compile Include="_FormEx\ControlBoxManager.cs" />
+    <Compile Include="_FormEx\DialogFormEx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_FormEx\DialogFormExHelper.cs" />
+    <Compile Include="_FormEx\_Mac\MacControlBoxManager.cs" />
+    <Compile Include="_FormEx\_Mac\MacDialogFormExRender.cs" />
+    <Compile Include="_FormEx\_Mac\MacFormExColorTable.cs" />
+    <Compile Include="_FormEx\_Mac\MacFormExRenderer.cs" />
+    <Compile Include="_GroupPanelEx\GroupPanelEx.cs" />
+    <Compile Include="_GroupPanelEx\GroupPanelExColorTable.cs" />
+    <Compile Include="_GroupPanelEx\_Pure\PureDeepblueGroupPanelExColorTable.cs" />
+    <Compile Include="_GroupPanelEx\_Pure\PureCyanGroupPanelExColorTable.cs" />
+    <Compile Include="_MenubarEx\MenubarEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="_MenubarEx\_MenubarItemEx\MenubarItemEx.cs" />
+    <Compile Include="_PanelEx\PanelEx.cs" />
+    <Compile Include="_PanelEx\PanelExColorTable.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="_ScrollbarEx\ScrollArea.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="_ScrollbarEx\ScrollBarEx.cs" />
+    <Compile Include="_ScrollbarEx\ScrollButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="_ScrollviewEx\ScrollviewContent.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="_ScrollviewEx\ScrollviewEx.cs" />
+    <Compile Include="_SquaresButtonGroupEx\SquaresButtonGroupEx.cs" />
+    <Compile Include="_SquaresButtonGroupEx\SquaresButtongroupExColorTable.cs" />
+    <Compile Include="_SquaresButtonGroupEx\_Pure\PureSquaresButtonGroupExColorTable.cs" />
+    <Compile Include="_SwitchCapsuleEx\SwitchCapsuleExColorTable.cs" />
+    <Compile Include="_SwitchCapsuleEx\SwitchCapsuleEx.cs" />
+    <Compile Include="_SwitchCapsuleEx\_Pure\PureSwitchCapsuleExColorTable.cs" />
+    <Compile Include="_SwitchClickButton\SwitchClickButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="_TabControlEx\TabPageEx.cs" />
+    <Compile Include="_Textbox\ITextBoxEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="_Textbox\TextboxEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="_ToggleButtonEx\Pure\PureToggleButtonColorTable.cs" />
+    <Compile Include="_ToggleButtonEx\ToggleButtonExColorTable.cs" />
+    <Compile Include="_ToggleButtonEx\ToggleButtonEx.cs" />
+    <Compile Include="_ToolStrip\ToolStripColorTable.cs" />
+    <Compile Include="_ToolStrip\ToolStripRendererEx.cs" />
+    <Compile Include="_Common\Events.cs" />
+    <Compile Include="_Common\Delegates.cs" />
+    <Compile Include="_Base\PanelExBase.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SkinRenderer.cs" />
+    <Compile Include="_ButtonEx\ButtonEx.cs" />
+    <Compile Include="_FormEx\_Metro\MetroControlBoxManager.cs" />
+    <Compile Include="ControlBoxState.cs" />
+    <Compile Include="ControlBoxStyle.cs" />
+    <Compile Include="ControlPaintEx.cs" />
+    <Compile Include="ControlState.cs" />
+    <Compile Include="MouseOperate.cs" />
+    <Compile Include="NativeMethods.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RenderHelper.cs" />
+    <Compile Include="_ButtonEx\ButtonExColorTable.cs" />
+    <Compile Include="_ButtonEx\_Pure\PureButtonExRenderer.cs" />
+    <Compile Include="_FormEx\FormEx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SkinFormBackgroundRenderEvent.cs" />
+    <Compile Include="SkinFormBorderRenderEvent.cs" />
+    <Compile Include="SkinFormCaptionRenderEvent.cs" />
+    <Compile Include="SkinFormControlBoxRenderEvent.cs" />
+    <Compile Include="_ButtonEx\_Pure\PureButtonExColorTable.cs" />
+    <Compile Include="_FormEx\FormExColorTable.cs" />
+    <Compile Include="_FormEx\_Metro\MetroFormExRenderer.cs" />
+    <Compile Include="_FormEx\FormExRenderer.cs" />
+    <Compile Include="_FormEx\_Metro\MetroFormExColorTable.cs" />
+    <Compile Include="_TabControlEx\TabControlExColorTable.cs" />
+    <Compile Include="_TabControlEx\Events.cs" />
+    <Compile Include="_TabControlEx\TabControlEx.cs" />
+    <Compile Include="_TabControlEx\_Pure\PureTabControlExColorTable.cs" />
+    <Compile Include="_TabControlEx\_Pure\PureTabControlExRenderer.cs" />
+    <Compile Include="_TooltipFromEx\AnimationTooltipFormEx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_TooltipFromEx\TooltipBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_TooltipFromEx\TooltipFromEx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_VideoFrame\VideoFrame.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Fink.Core\Fink.Core.csproj">
+      <Project>{c4f13b45-e8b5-4e42-93f9-75ac2b10534a}</Project>
+      <Name>Fink.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Fink.Drawing\Fink.Drawing.csproj">
+      <Project>{1FF50F3A-43A3-4648-B132-0EA318AB1340}</Project>
+      <Name>Fink.Drawing</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Decorative\" />
+    <Folder Include="_LabelEx\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_AutoComplateDropDown\AutocompleteMenu.resx">
+      <DependentUpon>AutocompleteMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_FormEx\FormEx.resx">
+      <DependentUpon>FormEx.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrafficLights_Light.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrafficLights_LightWithIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TrafficLights_Dark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Scrollbar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.png" />
+    <Content Include="_AutoComplateDropDown\AutocompleteMenu.csproj" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

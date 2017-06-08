@@ -1,0 +1,7 @@
+E:\工作项目\YokiTalk2.0\YokiTalk_T\ThirdParty\Bin\Release\NimCore.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\ThirdParty\Bin\Release\NimCore.pdb
+E:\工作项目\YokiTalk2.0\YokiTalk_T\ThirdParty\NIM\Core\obj\x86\Release\NimCore.csprojResolveAssemblyReference.cache
+E:\工作项目\YokiTalk2.0\YokiTalk_T\ThirdParty\NIM\Core\obj\x86\Release\NIM.Properties.Resources.resources
+E:\工作项目\YokiTalk2.0\YokiTalk_T\ThirdParty\NIM\Core\obj\x86\Release\NimCore.csproj.GenerateResource.Cache
+E:\工作项目\YokiTalk2.0\YokiTalk_T\ThirdParty\NIM\Core\obj\x86\Release\NimCore.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\ThirdParty\NIM\Core\obj\x86\Release\NimCore.pdb

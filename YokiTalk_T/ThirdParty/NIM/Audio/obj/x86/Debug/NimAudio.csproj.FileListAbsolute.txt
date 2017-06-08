@@ -1,0 +1,5 @@
+E:\工作项目\YokiTalk2.0\YokiTalk_T\ThirdParty\bin\Debug\NimAudio.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\ThirdParty\bin\Debug\NimAudio.pdb
+E:\工作项目\YokiTalk2.0\YokiTalk_T\ThirdParty\NIM\Audio\obj\x86\Debug\NimAudio.csprojResolveAssemblyReference.cache
+E:\工作项目\YokiTalk2.0\YokiTalk_T\ThirdParty\NIM\Audio\obj\x86\Debug\NimAudio.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\ThirdParty\NIM\Audio\obj\x86\Debug\NimAudio.pdb

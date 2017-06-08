@@ -1,0 +1,8 @@
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Bin\Debug\Yoki.Controls.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Bin\Debug\Yoki.Controls.pdb
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.Controls\obj\x86\Debug\Yoki.Controls.csprojResolveAssemblyReference.cache
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.Controls\obj\x86\Debug\Yoki.Controls.ImageViewer.resources
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.Controls\obj\x86\Debug\Yoki.Controls.Properties.Resources.resources
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.Controls\obj\x86\Debug\Yoki.Controls.csproj.GenerateResource.Cache
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.Controls\obj\x86\Debug\Yoki.Controls.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.Controls\obj\x86\Debug\Yoki.Controls.pdb

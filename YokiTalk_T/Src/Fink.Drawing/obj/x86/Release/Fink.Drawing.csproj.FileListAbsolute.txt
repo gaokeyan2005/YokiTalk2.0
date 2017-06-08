@@ -1,0 +1,4 @@
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Fink.Drawing\bin\x86\Release\Fink.Drawing.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Fink.Drawing\bin\x86\Release\Fink.Drawing.pdb
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Fink.Drawing\obj\x86\Release\Fink.Drawing.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Fink.Drawing\obj\x86\Release\Fink.Drawing.pdb

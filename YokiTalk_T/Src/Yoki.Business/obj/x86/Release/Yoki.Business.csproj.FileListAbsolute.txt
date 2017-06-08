@@ -1,0 +1,10 @@
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.Business\bin\x86\Release\Yoki.Business.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.Business\bin\x86\Release\Yoki.Business.pdb
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.Business\bin\x86\Release\Newtonsoft.Json.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.Business\bin\x86\Release\Yoki.Comm.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.Business\bin\x86\Release\Yoki.Core.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.Business\bin\x86\Release\Yoki.Comm.pdb
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.Business\bin\x86\Release\Yoki.Core.pdb
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.Business\obj\x86\Release\Yoki.Business.csprojResolveAssemblyReference.cache
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.Business\obj\x86\Release\Yoki.Business.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.Business\obj\x86\Release\Yoki.Business.pdb

@@ -1,0 +1,2 @@
+{"operation_time": "2017-01-26 17:03:28","computername": "CYGKY","account": "teacher6","operation_type": "Login","operation_log": "Successful login!"},
+{"operation_time": "2017-01-26 17:07:55","computername": "CYGKY","account": "teacher6","operation_type": "Answer","operation_log": "Call connection to perform manual rejection!"},

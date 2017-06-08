@@ -1,0 +1,16 @@
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.IM\bin\x86\Release\Yoki.IM.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.IM\bin\x86\Release\Yoki.IM.pdb
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.IM\bin\x86\Release\Fink.Drawing.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.IM\bin\x86\Release\NimCore.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.IM\bin\x86\Release\NimUtility.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.IM\bin\x86\Release\Yoki.Comm.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.IM\bin\x86\Release\Yoki.Core.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.IM\bin\x86\Release\Newtonsoft.Json.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.IM\bin\x86\Release\NimCore.pdb
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.IM\bin\x86\Release\NimUtility.pdb
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.IM\bin\x86\Release\Fink.Drawing.pdb
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.IM\bin\x86\Release\Yoki.Comm.pdb
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.IM\bin\x86\Release\Yoki.Core.pdb
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.IM\obj\x86\Release\Yoki.IM.csprojResolveAssemblyReference.cache
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.IM\obj\x86\Release\Yoki.IM.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.IM\obj\x86\Release\Yoki.IM.pdb

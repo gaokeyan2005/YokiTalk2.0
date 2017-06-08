@@ -1,0 +1,64 @@
+{"error_time": "2017-01-11 14:09:52","computername": "CYGKY","account": "testtest1","error_source": "Newtonsoft.Json","error_message": "An unhandled exception has occurred：2017/1/11 14:09:52
+Application UnhandledException:Unexpected character encountered while parsing value: a. Path '', line 0, position 0.;
+Stack information:   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.ReadInternal()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   在 Yoki.Comm.ParamsHelper.Deserialize[T](String json) 位置 E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.Comm\ParamsHelper.cs:行号 49
+   在 Yoki.View.frmMain.<InitCallBack>b__18_0(NIMSysMsgEventArgs o) 位置 E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.View\frmMain.cs:行号 496
+   在 Yoki.IM.Manager.<.ctor>b__27_2(NIMSysMsgEventArgs e) 位置 E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.IM\Manager.cs:行号 47
+   在 Yoki.IM.NIMManager.<InitSDK>b__14_3(Object s, NIMSysMsgEventArgs args) 位置 E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.IM\NIMManager.cs:行号 79
+   在 NIM.SysMessage.SysMsgAPI.OnReceivingSysMsgCallback(String result, IntPtr ptr) 位置 E:\工作项目\YokiTalk2.0\YokiTalk_T\ThirdParty\NIM\Core\api\SysMessage\NIMSysMsgAPI.cs:行号 44"},
+{"error_time": "2017-01-11 14:14:21","computername": "CYGKY","account": "testtest1","error_source": "Newtonsoft.Json","error_message": "An unhandled exception has occurred：2017/1/11 14:14:21
+Application UnhandledException:Unexpected character encountered while parsing value: a. Path '', line 0, position 0.;
+Stack information:   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.ReadInternal()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   在 Yoki.Comm.ParamsHelper.Deserialize[T](String json) 位置 E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.Comm\ParamsHelper.cs:行号 49
+   在 Yoki.View.frmMain.<InitCallBack>b__18_0(NIMSysMsgEventArgs o) 位置 E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.View\frmMain.cs:行号 496
+   在 Yoki.IM.Manager.<.ctor>b__27_2(NIMSysMsgEventArgs e) 位置 E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.IM\Manager.cs:行号 47
+   在 Yoki.IM.NIMManager.<InitSDK>b__14_3(Object s, NIMSysMsgEventArgs args) 位置 E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.IM\NIMManager.cs:行号 79
+   在 NIM.SysMessage.SysMsgAPI.OnReceivingSysMsgCallback(String result, IntPtr ptr) 位置 E:\工作项目\YokiTalk2.0\YokiTalk_T\ThirdParty\NIM\Core\api\SysMessage\NIMSysMsgAPI.cs:行号 44"},
+{"error_time": "2017-01-11 14:14:26","computername": "CYGKY","account": "testtest1","error_source": "Newtonsoft.Json","error_message": "An unhandled exception has occurred：2017/1/11 14:14:26
+Application UnhandledException:Unexpected character encountered while parsing value: a. Path '', line 0, position 0.;
+Stack information:   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.ReadInternal()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   在 Yoki.Comm.ParamsHelper.Deserialize[T](String json) 位置 E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.Comm\ParamsHelper.cs:行号 49
+   在 Yoki.View.frmMain.<InitCallBack>b__18_0(NIMSysMsgEventArgs o) 位置 E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.View\frmMain.cs:行号 496
+   在 Yoki.IM.Manager.<.ctor>b__27_2(NIMSysMsgEventArgs e) 位置 E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.IM\Manager.cs:行号 47
+   在 Yoki.IM.NIMManager.<InitSDK>b__14_3(Object s, NIMSysMsgEventArgs args) 位置 E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.IM\NIMManager.cs:行号 79
+   在 NIM.SysMessage.SysMsgAPI.OnReceivingSysMsgCallback(String result, IntPtr ptr) 位置 E:\工作项目\YokiTalk2.0\YokiTalk_T\ThirdParty\NIM\Core\api\SysMessage\NIMSysMsgAPI.cs:行号 44"},
+{"error_time": "2017-01-11 14:14:28","computername": "CYGKY","account": "testtest1","error_source": "Newtonsoft.Json","error_message": "An unhandled exception has occurred：2017/1/11 14:14:28
+Application UnhandledException:Unexpected character encountered while parsing value: a. Path '', line 0, position 0.;
+Stack information:   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.ReadInternal()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   在 Yoki.Comm.ParamsHelper.Deserialize[T](String json) 位置 E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.Comm\ParamsHelper.cs:行号 49
+   在 Yoki.View.frmMain.<InitCallBack>b__18_0(NIMSysMsgEventArgs o) 位置 E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.View\frmMain.cs:行号 496
+   在 Yoki.IM.Manager.<.ctor>b__27_2(NIMSysMsgEventArgs e) 位置 E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.IM\Manager.cs:行号 47
+   在 Yoki.IM.NIMManager.<InitSDK>b__14_3(Object s, NIMSysMsgEventArgs args) 位置 E:\工作项目\YokiTalk2.0\YokiTalk_T\Src\Yoki.IM\NIMManager.cs:行号 79
+   在 NIM.SysMessage.SysMsgAPI.OnReceivingSysMsgCallback(String result, IntPtr ptr) 位置 E:\工作项目\YokiTalk2.0\YokiTalk_T\ThirdParty\NIM\Core\api\SysMessage\NIMSysMsgAPI.cs:行号 44"},

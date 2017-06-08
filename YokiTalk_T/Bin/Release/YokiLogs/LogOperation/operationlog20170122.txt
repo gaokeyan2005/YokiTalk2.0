@@ -1,0 +1,2 @@
+{"operation_time": "2017-01-22 09:31:10","computername": "CYGKY","account": "MayMay","operation_type": "Login","operation_log": "Successful login!"},
+{"operation_time": "2017-01-22 09:31:14","computername": "CYGKY","account": "MayMay","operation_type": "Close","operation_log": "Close the system, log off."},

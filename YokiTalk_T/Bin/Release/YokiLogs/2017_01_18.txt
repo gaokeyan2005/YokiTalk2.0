@@ -1,0 +1,60 @@
+{2017/1/18 10:05:58}[OnReceiveSysMsg] e.Message = {"msg":"ok","code":20001,"data":{"log_id":70506,"topic_id":"7","textbook_id":4,"student_id":1010865,"student_name":"ruilan","student_avatar":"http:\/\/static.chaojiwaijiao.com\/\/2016\/09\/548c1ded3c308ff931cb855d8d7e79af.png","student_gender":"1","student_age":1}}
+{2017/1/18 10:06:08}[OnVChatAck] call user =  1010865
+{2017/1/18 10:07:31}[OnVChatAck] call user =  1010865
+{2017/1/18 10:07:33}[OnVChatConnected] StartClass ClassInfo = LogID :  70506
+TopicID :  7
+TextbookID :  4
+StuID :  1010865
+StuAvatar :  http://static.chaojiwaijiao.com//2016/09/548c1ded3c308ff931cb855d8d7e79af.png
+StuAvatarImage:
+   Tag :  null
+   PhysicalDimension :  {Width=399, Height=400}
+   Size :  {Width=399, Height=400}
+   Width :  399
+   Height :  400
+   HorizontalResolution :  96
+   VerticalResolution :  96
+   Flags :  73744
+   RawFormat :  [ImageFormat: b96b3cae-0728-11d3-9d7b-0000f81ef32e]
+   PixelFormat :  Format24bppRgb
+   Palette :  System.Drawing.Imaging.ColorPalette
+   FrameDimensionsList:
+7462dc86-6180-4c7e-8e3f-ee7333a7a483
+
+
+   PropertyIdList:
+
+   PropertyItems:
+
+
+StuName :  ruilan
+StuAge :  1
+StuGender :  Male
+StuGrade :  Grade 1
+TopicInfo:
+   Title :  Unit 1 My classroom 7
+   Links:
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+*******[PrintObject] Error msg = 参数计数不匹配。
+      Length :  62
+
+
+
+
+StartClassTime :  2017/1/18 10:06:09
+
+{2017/1/18 10:08:25}[OnVChatAck] call user =  1010865
+{2017/1/18 10:37:06}[OnReceiveSysMsg] e.Message = {"msg":"ok","code":20001,"data":{"log_id":70508,"topic_id":"2","textbook_id":4,"student_id":25678542954,"student_name":null,"student_avatar":null,"student_gender":"3","student_age":18}}
+{2017/1/18 10:54:20}[OnReceiveSysMsg] e.Message = {"msg":"ok","code":20001,"data":{"log_id":70511,"topic_id":"847","textbook_id":46,"student_id":25676570019,"student_name":null,"student_avatar":null,"student_gender":"3","student_age":18}}
+{2017/1/18 10:54:26}[OnVChatAck] call user =  25676570019

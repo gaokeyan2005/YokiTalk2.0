@@ -1,0 +1,5 @@
+E:\工作项目\YokiTalk2.0\YokiTalk_T\ThirdParty\bin\Debug\NimHttp.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\ThirdParty\bin\Debug\NimHttp.pdb
+E:\工作项目\YokiTalk2.0\YokiTalk_T\ThirdParty\NIM\Http\obj\x86\Debug\NimHttp.csprojResolveAssemblyReference.cache
+E:\工作项目\YokiTalk2.0\YokiTalk_T\ThirdParty\NIM\Http\obj\x86\Debug\NimHttp.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\ThirdParty\NIM\Http\obj\x86\Debug\NimHttp.pdb

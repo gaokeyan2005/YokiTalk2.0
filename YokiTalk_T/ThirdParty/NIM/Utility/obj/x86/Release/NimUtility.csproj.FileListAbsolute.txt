@@ -1,0 +1,4 @@
+E:\工作项目\YokiTalk2.0\YokiTalk_T\ThirdParty\Bin\Release\NimUtility.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\ThirdParty\Bin\Release\NimUtility.pdb
+E:\工作项目\YokiTalk2.0\YokiTalk_T\ThirdParty\NIM\Utility\obj\x86\Release\NimUtility.dll
+E:\工作项目\YokiTalk2.0\YokiTalk_T\ThirdParty\NIM\Utility\obj\x86\Release\NimUtility.pdb
